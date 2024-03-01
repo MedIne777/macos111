@@ -1,2 +1,2 @@
 # macos111
-Tikai macos
+Tikai macos izmantot git
